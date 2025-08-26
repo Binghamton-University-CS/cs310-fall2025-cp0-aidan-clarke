@@ -1,6 +1,6 @@
 Full Name: Aidan Clarke
-GitHub ID:
-Binghamton CS userid:
+GitHub ID: aidan-clarke
+Binghamton CS userid: aclarke3
 Discord name: Aidan.c
 
 Please type or copy the CS 310 honesty statement here:
@@ -10,4 +10,4 @@ I have worked on this project individually, and have not given or received too m
 With respect to the honesty statement, if you have any doubts whatsoever 
 about whether you have completed the assignment appropriately, 
 please describe briefly here:
-
+I was unable to push the content from the remote servers back to GitHub, I will attend office hours to figure out the issue and resolve it
